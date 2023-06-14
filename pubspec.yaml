@@ -1,0 +1,35 @@
+name: betheme
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_native_splash: ^2.3.1
+  get: ^4.6.5
+  google_fonts: ^5.0.0
+  liquid_swipe: ^3.1.0
+  smooth_page_indicator: ^1.1.0
+
+flutter_native_splash:
+  color: "#f7f6f1"
+  image: assets/images/kit.png
+  color_dark: "#272727"
+  image_dark: assets/images/kit.png
+  web: false
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/
+  - assets/images/splash_images/
+  - assets/images/on_boarding_images/
