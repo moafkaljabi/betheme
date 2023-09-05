@@ -13,4 +13,6 @@ Features:
 
 
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 15 45 10](https://github.com/moafkaljabi/betheme/assets/62897604/46d63359-1dcf-4ec1-ad18-34c7682dc4b1)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 15 45 10](https://github.com/moafkaljabi/betheme/assets/62897604/870860c5-79fa-4fce-bad2-defb3f408acf)
+
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 19 06 12](https://github.com/moafkaljabi/betheme/assets/62897604/d3cae4e5-e0d0-476a-aaff-cb347f17d194)
